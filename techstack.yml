@@ -2,7 +2,7 @@ repo_name: dr-gareth-roberts/ev0-astro-theme
 report_id: 7049fa2df5c1c499253a25a28a6eca35
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:02:18+00:00'
+timestamp: '2024-02-29T18:26:35+00:00'
 requested_by: gndx
 provider: github
 branch: main
@@ -77,7 +77,7 @@ tools:
   detection_source_url: https://github.com/dr-gareth-roberts/ev0-astro-theme
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.3
   license: MIT
